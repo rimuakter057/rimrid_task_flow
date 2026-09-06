@@ -20,15 +20,4 @@ A Flutter task and project management app for teams — track projects, manage t
 | --- | --- | --- | --- |
 | ![Edit Task](assets/task/Screenshot_20260906_110158.png) | ![Project Detail](assets/task/Screenshot_20260906_110219.png) | ![Team Members](assets/task/Screenshot_20260906_110240.png) | ![Settings](assets/task/Screenshot_20260906_110253.png) |
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
